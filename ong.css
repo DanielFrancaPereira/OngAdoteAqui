@@ -1,9 +1,10 @@
 body{background-color: whites;
      font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../img/Changing-colour-2.jpg);
+    background-image: url(../ONG/img/Changing-colour-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;}
-*{padding: 0%;
+
+    *{padding: 0%;
 box-sizing: border-box;}
 
 
@@ -21,9 +22,6 @@ box-sizing: border-box;}
     justify-content: space-around;
     margin-right: 600px;}
 
-.menu{display: flex;
-    flex-direction: row;
-    justify-content: space-around;}
 
 ul li{ display: inline;
         }
